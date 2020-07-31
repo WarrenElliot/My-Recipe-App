@@ -8,3 +8,8 @@ A simple app built using REACT & Node.js to:
 - listing all the recipes (title, image, ingredients, calories) using a bit of CSS formatting.
 
 Screenshot attached.
+
+
+https://varunjay001.wordpress.com/2020/07/30/my-first-react-application/
+
+
