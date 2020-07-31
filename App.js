@@ -4,8 +4,8 @@ import './App.css';
 
 const App = () => {
 
-  const APP_ID = "777a739e";
-  const APP_KEY = "c328889f5f936a86ab36e1f8010635e4";
+  const APP_ID = "<sign up on edamam.com & get your App ID>";
+  const APP_KEY = "<sign up on edamam.com & get your App Key>";
 
   const [recipes, setRecipes] = useState([]);
   const [search, setSearch] = useState('');
